@@ -9,6 +9,8 @@
 
 ## Frameworks & Engines
 
-- [Phaser](https://phaser.io/)
+- [PhaserJs](https://phaser.io/)
+- [KiwiJs](https://github.com/gamelab/kiwi.js)
+- [MatterJs](https://github.com/liabru/matter-js)
 
 ## [Concepts & Theories](https://github.com/mimshins/gamedev-concepts)
